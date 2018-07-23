@@ -1,5 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# Criado por: Moisés Pereira
+# Data: 22/07/2018
+# 
 from pyspark 		import SparkContext, SparkConf
 from pyspark.sql 	import SQLContext
 
